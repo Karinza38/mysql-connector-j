@@ -1,4 +1,4 @@
-# MySQL Connector/J
+MySQL Connector/J
 
 [![GitHub top language](https://img.shields.io/github/languages/top/mysql/mysql-connector-j?label=Java&color=5382a1)](https://github.com/mysql/mysql-connector-j/tree/release/9.x/src/) [![License: GPLv2 with FOSS exception](https://img.shields.io/badge/License-GPLv2_with_FOSS_exception-c30014)](LICENSE) [![Maven Central Version](https://img.shields.io/maven-central/v/com.mysql/mysql-connector-j?label=Maven%20Central)](https://central.sonatype.com/search?q=g%3Acom.mysql+a%3Amysql-connector-j)
 
